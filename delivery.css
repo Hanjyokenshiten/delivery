@@ -18,10 +18,6 @@ body .main .row .news-card-res {
   display: none;
 }
 
-body .main .row .news-card {
-  margin-left: 90px;
-}
-
 body .main .row .ttl {
   color: #FAFFFF;
   background-color: #881C36;
@@ -48,6 +44,16 @@ body .main .row p {
 
 body .main .row img {
   width: 100%;
+}
+
+body .main .row .news-card {
+  margin-left: 90px;
+}
+
+.phone {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 2rem;
 }
 
 /*# sourceMappingURL=history.css.map */

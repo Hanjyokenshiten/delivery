@@ -128,7 +128,11 @@
   body .main .row-fir .intro {
     font-size: 20px
   }
+
+  a[href^="tel:"] {
+    pointer-events: none;
+  }
 }
-}
+
 
 /*# sourceMappingURL=responsive-top.css.map */
