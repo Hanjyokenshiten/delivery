@@ -129,6 +129,9 @@
     font-size: 20px
   }
 
+}
+
+@media(min-width: 768px) {
   a[href^="tel:"] {
     pointer-events: none;
   }
